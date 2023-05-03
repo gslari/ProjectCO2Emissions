@@ -59,8 +59,11 @@ https://www.kaggle.com/ramyaparimi/greenhouse-gas-report-data-2015
 
 # Metodologia:
 Serão utilizados boxplots, gráfico de pizza, diagramas de dispersão, gráfico de barra.
+
 Gráfico de pizza: utilizado para dividir em setores, exibindo uma informação relacionada.
+
 Gráfico de Barras: é uma forma de resumir um conjunto de dados categóricos.
+
 Gráfico de Linha: é utilizado para facilitar a identificação de tendências e anomalias.
 
 # Bibliotecas Utilizadas:
