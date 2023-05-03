@@ -68,9 +68,13 @@ Gráfico de Linha: é utilizado para facilitar a identificação de tendências 
 
 # Bibliotecas Utilizadas:
 Pandas
+
 Matplotlib
+
 IPython
+
 statsmodels
+
 scipy.stats
 
 # Carregamento e Processamento dos dados
