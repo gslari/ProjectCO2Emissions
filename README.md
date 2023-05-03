@@ -112,4 +112,5 @@ Boxplot mostra que os setores com as maiores emissões são o de Refinaria, uma 
 Analizando as variáveis, conclui-se que os maiores setores que emitem poluição são os de Refinaria,Setor de Celulose e Papel,porém os que mais aparecem em termos de números são Produção de Comida e Usinas Elétricas, o gás mais recorrente é o CO2 Fóssil e os principais municípios que poluem são King,Pierce e Whatcom.
 
 Assim, podemos finalizar que, BP Cherry Point Refinery - Blaine, em Whatcom, é a indústria mais poluente de Washington, se enquadrando no quesito município, setor e maior gás emitido, tendo um número de emissões totais de 2.093.437 e 2.077.888 de emissões de CO2 Fóssil.
+
 ![image](https://user-images.githubusercontent.com/82593529/236043294-fa6197c4-14cd-4828-9060-5a2e289242df.png)
